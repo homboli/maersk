@@ -5,3 +5,16 @@ h2 {
 form {
     max-width:  50%;
 }
+
+nav {
+    color: white;
+    background-color: #212529;
+}
+
+nav a {
+    color: white;
+}
+
+nav a:hover {
+
+}
